@@ -1,0 +1,9 @@
+Django hosting options:
+
+Bluehost - $20/month 
+
+AWS 
+https://dev.to/rmiyazaki6499/deploying-a-production-ready-django-app-on-aws-1pk3
+
+https://www.pythonanywhere.com/
+
